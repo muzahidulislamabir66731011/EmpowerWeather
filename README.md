@@ -15,10 +15,6 @@
 - **JavaScript** - API integration and dynamic functionality
 - **OpenWeatherMap API** - Real-time weather data
 
-## 📷 Screenshots
-
-![Weather App Screenshot](images/weather-app.png) *(Add your actual screenshot here)*
-
 ## 🚀 Live Demo
 
 [View Live Demo](https://muzahidulislamabir66731011.github.io/EmpowerWeather/)
