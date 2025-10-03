@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+body{
+    background-color: antiquewhite;
+}
+
+#bg-video {
+  position: fixed;        
+  right: 0;
+  bottom: 0;      
+  z-index: -1;         
+}
+.card{
+  width: 90%;
+  max-width: 470px;
+  background: rgba(255, 255, 255, 0.2);   /* semi-transparent */
+  backdrop-filter: blur(1px);            /* blur the background behind */
+  -webkit-backdrop-filter: blur(5px);    /* Safari support */
+  border-radius: 15px;
+  border: 1px solid rgba(255, 255, 255, 0.3); /* subtle border */
+  color: rgb(114, 108, 108);
+  text-align: center;
+  margin: 100px auto 0;
+  padding: 40px 35px ;
+}
+.search{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.search input{
+  border: none;
+  outline: none;
+  background: rgba(255, 255, 255, 0.3);
+  color: rgb(114, 108, 108);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  padding: 10px 25px;
+  height: 60px;
+  border-radius: 30px;
+  flex: 1;
+  margin-right: 16px;
+  font-size: 18px;
+}
+
+.search button{
+  border: none;
+  outline: none;
+  background: transparent;
+  border-radius: 50%;
+  padding-top: 9px;
+  width: 60px;
+  height: 60px;
+  cursor: pointer;
+}
+
+.search button img{
+  width: 30px;
+}
+
+.search button:active {
+    background: rgba(255, 255, 255, 0.5);
+    transform: scale(0.80); 
+    transition: all 0.3s ease;
+}
+
+.search button {
+    transition: background 0.3s ease;
+}
+
+.weather-icon{
+  margin-top: 30px;
+  width: 170px;
+}
+
+.weather h1{
+  font-size: 80px;
+  font-weight: 500;
+}
+
+.weather h2{
+  font-size: 45px;
+  font-weight: 400;
+  margin-top: -10px;
+}
+
+.details {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 10px;
+  margin-top: 50px;
+  color: rgb(88, 87, 87)
+}
+
+.col{
+  display: flex;
+  align-items: center;
+  text-align: left;
+}
+
+.col img{
+  width: 40px;
+  margin-right: 10px;
+}
+
+.humidity, .wind{
+  font-size: 28px;
+  margin-top: -6px;
+}
+
+.weather{
+  display: none;
+}
+
+.error{
+  display: none;
+}
