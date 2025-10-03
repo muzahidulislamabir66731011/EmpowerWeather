@@ -73,4 +73,3 @@ If you like this project, give it a star! ⭐
 ---
 
 *Made with ❤️ using HTML, CSS, and JavaScript*
-```
