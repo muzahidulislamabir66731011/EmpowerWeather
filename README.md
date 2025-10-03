@@ -1,19 +1,19 @@
 ✨ Features
 
-    🌍 Real-time Weather Data - Get current weather information for any city
-    🔍 City Search - Search by city name with instant results
-    🎨 Beautiful UI - Modern design with glassmorphism effects
-    📱 Responsive Design - Works on all device sizes
-    🎥 Video Background - Dynamic background that enhances user experience
-    🌡️ Weather Details - Temperature, humidity, and wind speed
-    🌈 Dynamic Icons - Weather-specific icons that change based on conditions
+🌍 Real-time Weather Data - Get current weather information for any city
+🔍 City Search - Search by city name with instant results
+🎨 Beautiful UI - Modern design with glassmorphism effects
+📱 Responsive Design - Works on all device sizes
+🎥 Video Background - Dynamic background that enhances user experience
+🌡️ Weather Details - Temperature, humidity, and wind speed
+🌈 Dynamic Icons - Weather-specific icons that change based on conditions
 
 🛠️ Technologies Used
 
-    HTML5 - Structure and content
-    CSS3 - Styling with backdrop filters and animations
-    JavaScript - API integration and dynamic functionality
-    OpenWeatherMap API - Real-time weather data
+HTML5 - Structure and content
+CSS3 - Styling with backdrop filters and animations
+JavaScript - API integration and dynamic functionality
+OpenWeatherMap API - Real-time weather data
 
 📷 Screenshots
 
