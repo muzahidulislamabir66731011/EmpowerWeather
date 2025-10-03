@@ -17,7 +17,7 @@
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://muzahidulislamabir66731011.github.io/EmpowerWeather/)
+[View Live Demo]((https://empowerweather.netlify.app/))
 
 ## 📋 How to Use
 
